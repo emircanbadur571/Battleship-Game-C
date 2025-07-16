@@ -1,8 +1,4 @@
-EN: C implementation of a Battleship Game Simulation for CSE102 Computer Programming course.
-
-TR: CSE102 Bilgisayar Programlama dersi için C dilinde geliştirilmiş Amiral Battı (Battleship) Oyunu Simülasyonu.
-
-# Battleship Game Simulation (C)
+# Battleship Game Simulation (C) EN/TR
 
 \<p align="center"\>
 \<img src="[https://img.shields.io/badge/Language-C-blue.svg](https://img.shields.io/badge/Language-C-blue.svg)" alt="C Language"\>
