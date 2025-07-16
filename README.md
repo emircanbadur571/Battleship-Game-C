@@ -8,7 +8,7 @@
 
 ## English Description
 
-This project is a C implementation of the classic Battleship game, developed as an assignment for the CSE102 Computer Programming course. The game features a $10 \\times 10$ grid where the user attempts to sink randomly placed ships by firing shots at specific coordinates. The game continues until all ships are sunk.
+This project is a C implementation of the classic Battleship game, developed as an assignment for the CSE102 Computer Programming course. The game features a 10x10 grid where the user attempts to sink randomly placed ships by firing shots at specific coordinates. The game continues until all ships are sunk.
 
 ### Features
 
@@ -44,7 +44,7 @@ The game generates two log files in the same directory as the executable:
 
 ## Türkçe Açıklama
 
-Bu proje, CSE102 Bilgisayar Programlama dersi için geliştirilmiş klasik Amiral Battı (Battleship) oyununun C dilinde bir uygulamasıdır. Oyun, kullanıcıların rastgele yerleştirilmiş gemileri belirli koordinatlara atış yaparak batırmaya çalıştığı $10 \\times 10$ bir ızgarayı içerir. Tüm gemiler batırılana kadar oyun devam eder.
+Bu proje, CSE102 Bilgisayar Programlama dersi için geliştirilmiş klasik Amiral Battı (Battleship) oyununun C dilinde bir uygulamasıdır. Oyun, kullanıcıların rastgele yerleştirilmiş gemileri belirli koordinatlara atış yaparak batırmaya çalıştığı 10x10 bir ızgarayı içerir. Tüm gemiler batırılana kadar oyun devam eder.
 
 ### Özellikler
 
