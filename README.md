@@ -1,7 +1,3 @@
-Harika\! `cite` etiketlerini temizlenmiş haliyle README dosyasının son halini aşağıda bulabilirsin. Bu metni doğrudan GitHub'a kopyalayıp yapıştırabilirsin.
-
------
-
 # Battleship Game Simulation (C)
 
 \<p align="center"\>
